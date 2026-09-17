@@ -1,0 +1,106 @@
+Title,Link
+,
+A Corpus for Large-Scale Phonetic Typology,https://arxiv.org/abs/2005.13962
+A Few Thousand Translations Go a Long Way! Leveraging Pre-trained Models for African News Translation,https://aclanthology.org/2022.naacl-main.223/
+A Post-trainer's Guide to Multilingual Training Data: Uncovering Cross-lingual Transfer Dynamics,https://arxiv.org/abs/2504.16677
+Afri-MCQA: Multimodal Cultural Question Answering for African Languages,https://arxiv.org/abs/2601.05699
+AfriMTE and AfriCOMET: Enhancing COMET to Embrace Under-resourced African Languages,https://aclanthology.org/2024.naacl-long.334/
+AfriQA: Cross-lingual Open-Retrieval Question Answering for African Languages,https://aclanthology.org/2023.findings-emnlp.997/
+AfriSenti: A Twitter Sentiment Analysis Benchmark for African Languages,https://aclanthology.org/2023.emnlp-main.862/
+AfroMT: Pretraining Strategies and Reproducible Benchmarks for Translation of 8 African Languages,https://arxiv.org/abs/2109.04715
+Alexandria: A Multi-Domain Dialectal Arabic Machine Translation Dataset for Culturally Inclusive and Linguistically Diverse LLMs,https://arxiv.org/abs/2601.13099
+ArabicMMLU: Assessing Massive Multitask Language Understanding in Arabic,https://aclanthology.org/2024.findings-acl.334/
+ARBML: Democratizing Arabic Natural Language Processing Tools,https://aclanthology.org/2020.nlposs-1.2/
+Aya 23: Open Weight Releases to Further Multilingual Progress,https://arxiv.org/abs/2405.15032
+"Aya Model: An Instruction Finetuned
+Open-Access Multilingual Language Model",https://aclanthology.org/2024.acl-long.845.pdf
+Beg to Differ: Understanding Reasoning-Answer Misalignment Across Languages,https://arxiv.org/abs/2512.22712
+"BibleTTS: a large, high-fidelity, multilingual, and uniquely African speech corpus",https://arxiv.org/abs/2207.03546
+BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages,https://proceedings.neurips.cc/paper_files/paper/2024/hash/8eb88844dafefa92a26aaec9f3acad93-Abstract-Datasets_and_Benchmarks_Track.html
+"BLOOM: A 176B-Parameter Open-Acccess Multilingual
+Language Model",https://arxiv.org/pdf/2211.05100
+BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages,https://aclanthology.org/2025.acl-long.436/
+Building African Voices,https://arxiv.org/abs/2207.00688
+Casablanca: Data and Models for Multidialectal Arabic Speech Recognition,https://aclanthology.org/2024.emnlp-main.1211/
+CCMatrix: Mining Billions of High-Quality Parallel Sentences on the Web,https://aclanthology.org/2021.acl-long.507/
+Cheetah: Natural Language Generation for 517 African Languages,https://arxiv.org/abs/2401.01053
+CIDAR: Culturally Relevant Instruction Dataset For Arabic,https://aclanthology.org/2024.findings-acl.764.pdf
+Correcting FLORES Evaluation Dataset for Four African Languages,https://aclanthology.org/2024.wmt-1.44/
+CreoleVal: Multilingual Multitask Benchmarks for Creoles,https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00682/124256
+"CulturaX: A Cleaned, Enormous, and Multilingual Dataset for Large Language Models in 167 Languages",https://aclanthology.org/2024.lrec-main.377/
+CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark,https://arxiv.org/abs/2406.05967
+Dallah: A Dialect-Aware Multimodal Large Language Model for Arabic,https://arxiv.org/abs/2407.18129
+DAMP: Doubly Aligned Multilingual Parser for Task-Oriented Dialogue,https://aclanthology.org/2023.acl-long.199/
+DialectalArabicMMLU: Benchmarking Dialectal Capabilities in Arabic and Multilingual Language Models,https://arxiv.org/abs/2510.27543
+Dolphin: A Challenging and Diverse Benchmark for Arabic NLG,https://aclanthology.org/2023.findings-emnlp.98/
+Enabling Interactive Transcription in an Indigenous Community,https://aclanthology.org/2020.coling-main.303/
+EthioLLM: Multilingual Large Language Models for Ethiopian Languages with Task Evaluation,https://aclanthology.org/2024.lrec-main.561/
+Exploring Amharic Sentiment Analysis from Social Media Texts: Building Annotation Tools and Classification Models,https://aclanthology.org/2020.coling-main.91/
+Fashioning Local Designs from Generic Speech Technologies in an Australian Aboriginal Community,https://aclanthology.org/2022.coling-1.376.pdf
+From Laughter to Inequality: Annotated Dataset for Misogyny Detection in Tamil and Malayalam Memes,https://aclanthology.org/2024.lrec-main.660/
+From Nile Sands to Digital Hands: Machine Translation of Coptic Texts,https://aclanthology.org/2024.arabicnlp-1.25/
+Gazelle: An Instruction Dataset for Arabic Writing Assistance,https://aclanthology.org/2024.findings-emnlp.941/
+Global MMLU: Understanding and Addressing Cultural and Linguistic Biases in Multilingual Evaluation,https://aclanthology.org/2025.acl-long.919/
+Global PIQA: Evaluating Physical Commonsense Reasoning Across 100+ Languages and Cultures,https://arxiv.org/abs/2510.24081
+GlossLM: A Massively Multilingual Corpus and Pretrained Model for Interlinear Glossed Text,https://arxiv.org/abs/2403.06399
+Grounding Multilingual Multimodal LLMs With Cultural Knowledge,https://aclanthology.org/2025.emnlp-main.1232/
+How Does Quantization Affect Multilingual LLMs?,https://arxiv.org/abs/2407.03211
+How Good is Your Tokenizer? On the Monolingual Performance of Multilingual Language Models,https://aclanthology.org/2021.acl-long.243/
+"IGLUE: A Benchmark for Transfer Learning across Modalities, Tasks, and Languages",https://proceedings.mlr.press/v162/bugliarello22a.html
+INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge  ,https://arxiv.org/abs/2411.19799
+IndoNLG: Benchmark and Resources for Evaluating Indonesian Natural Language Generation,https://aclanthology.org/2021.emnlp-main.699/
+IndoNLU: Benchmark and Resources for Evaluating Indonesian Natural Language Understanding,https://arxiv.org/abs/2009.05387
+Investigating Meta-Learning Algorithms for Low-Resource Natural Language Understanding Tasks,https://arxiv.org/abs/1908.10423
+IrokoBench: A New Benchmark for African Languages in the Age of Large Language Models,https://aclanthology.org/2025.naacl-long.139/
+Is Human-Like Text Liked by Humans? Multilingual Human Detection and Preference Against AI,https://arxiv.org/abs/2502.11614
+JASMINE: Arabic GPT Models for Few-Shot Learning,https://aclanthology.org/2023.emnlp-main.1040/
+Kaleidoscope: In-language Exams for Massively Multilingual Vision Evaluation,https://arxiv.org/abs/2504.07072
+Language and Speech Technology for Central Kurdish Varieties,https://aclanthology.org/2024.lrec-main.877/
+"LIMIT: Language Identification, Misidentification, and Translation using Hierarchical Models in 350+ Languages",https://aclanthology.org/2023.emnlp-main.895/
+"LORAXBENCH: A Multitask, Multilingual Benchmark Suite for 20 Indonesian Languages",https://aclanthology.org/2025.emnlp-main.881/
+"LORELEI Language Packs: Data, Tools, and Resources for Technology Development in Low Resource Languages",https://aclanthology.org/L16-1521/
+M-RewardBench: Evaluating Reward Models in Multilingual Settings,https://aclanthology.org/2025.acl-long.3/
+Masakhaner 2.0: Africa-centric transfer learning for named entity recognition,https://aclanthology.org/2022.emnlp-main.298/
+MasakhaNEWS: News Topic Classification for African languages,https://aclanthology.org/2023.ijcnlp-main.10/
+MasakhaPOS: Part-of-Speech Tagging for Typologically Diverse African languages,https://aclanthology.org/2023.acl-long.609/
+MaSS: A Large and Clean Multilingual Corpus of Sentence-aligned Spoken Utterances Extracted from the Bible,https://aclanthology.org/2020.lrec-1.799/
+Massively Multilingual Joint Segmentation and Glossing,https://arxiv.org/abs/2601.10925
+MERLIN: A Testbed for Multilingual Multimodal Entity Recognition and Linking,https://arxiv.org/abs/2510.14307
+Multi-VALUE: A Framework for Cross-Dialectal English NLP,https://aclanthology.org/2023.acl-long.44/
+NADI 2025: The First Multidialectal Arabic Speech Processing Shared Task,https://aclanthology.org/2025.arabicnlp-sharedtasks.99/
+NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis,https://aclanthology.org/2022.lrec-1.63/
+"No Language Left Behind:
+Scaling Human-Centered Machine Translation",https://arxiv.org/abs/2207.04672
+NusaCrowd: Open Source Initiative for Indonesian NLP Resources,https://aclanthology.org/2023.findings-acl.868/
+NüshuRescue: Reviving the Endangered Nüshu Language with AI,https://aclanthology.org/2025.coling-main.468/
+Octopus: A Multitask Model and Toolkit for Arabic Natural Language Generation,https://aclanthology.org/2023.arabicnlp-1.20/
+On Language Models for Creoles,https://arxiv.org/abs/2109.06074
+"One Country, 700+ Languages: NLP Challenges for Underrepresented Languages and Dialects in Indonesia",https://arxiv.org/abs/2203.13357
+OpenNER 1.0: Standardized Open-Access Named Entity Recognition Datasets in 50+ Languages,https://aclanthology.org/2025.emnlp-main.1708/
+Palm: A Culturally Inclusive and Linguistically Diverse Dataset for Arabic LLMs,https://aclanthology.org/2025.acl-long.1579/
+PARME: Parallel corpora for low-resourced Middle Eastern languages,https://aclanthology.org/2025.acl-long.1451/
+Recontextualizing Revitalization: A Mixed Media Approach to Reviving the Nüshu Language,https://aclanthology.org/2025.emnlp-main.627/
+Script Normalization for Unconventional Writing of Under-Resourced Languages in Bilingual Communities,https://arxiv.org/abs/2305.16407
+Script-Agnosticism and its Impact on Language Identification for Dravidian Languages,https://aclanthology.org/2025.naacl-long.377/
+SEA-SafeguardBench: Evaluating AI Safety in SEA Languages and Cultures,https://arxiv.org/abs/2512.05501
+"SIB-200: A simple, inclusive, and big evaluation dataset for topic classification in 200+ languages and dialects",https://aclanthology.org/2024.eacl-long.14.pdf
+SMaLL-100: Introducing shallow multilingual machine translation model for low-resource languages,https://arxiv.org/abs/2210.11621
+Smol: Professionally translated parallel data for 115 under-represented languages,https://aclanthology.org/2025.wmt-1.85/
+Systematic inequalities in language technology performance across the world’s languages,https://aclanthology.org/2022.acl-long.376/
+TARJAMAT: Evaluation of Bard and ChatGPT on Machine Translation of Ten Arabic Varieties,https://aclanthology.org/2023.arabicnlp-1.6/
+TaTA: A Multilingual Table-to-Text Dataset for African Languages,https://aclanthology.org/2023.findings-emnlp.118/
+"The BigScience ROOTS Corpus:
+A 1.6TB Composite Multilingual Dataset",https://proceedings.neurips.cc/paper_files/paper/2022/hash/ce9e92e3de2372a4b93353eb7f3dc0bd-Abstract-Datasets_and_Benchmarks.html
+The Multilingual Divide and Its Impact on Global AI Safety,https://arxiv.org/abs/2505.21344
+The Multilingual TEDx Corpus for Speech Recognition and Translation,https://arxiv.org/abs/2102.01757
+TowerVision: Understanding and Improving Multilinguality in Vision-Language Models,https://arxiv.org/abs/2510.21849
+Uncovering Cultural Representation Disparities in Vision-Language Models,https://aclanthology.org/2025.findings-ijcnlp.131.pdf
+Viability of Machine Translation for Healthcare in Low-Resourced Languages,https://aclanthology.org/2025.emnlp-main.535/
+Visually Grounded Reasoning across Languages and Cultures,https://arxiv.org/abs/2109.13238
+"What a Creole Wants, What a Creole Needs",https://aclanthology.org/2022.lrec-1.691.pdf
+WorldCuisines: A Massive-Scale Benchmark for Multilingual and Multicultural Visual Question Answering on Global Cuisines,https://aclanthology.org/2025.naacl-long.167/
+X-FACTR: Multilingual factual knowledge retrieval from pretrained language models,https://arxiv.org/abs/2010.06189
+XCOPA: A Multilingual Dataset for Causal Commonsense Reasoning,https://arxiv.org/abs/2005.00333
+XTREME-R: Towards More Challenging and Nuanced Multilingual Evaluation,https://arxiv.org/abs/2104.07412
+XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalisation,https://proceedings.mlr.press/v119/hu20b/hu20b.pdf
+ZAEBUC-Spoken: A Multilingual Multidialectal Arabic-English Speech Corpus,https://arxiv.org/abs/2403.18182
