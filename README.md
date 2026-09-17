@@ -21,7 +21,7 @@ We conclude by offering practical recommendations to help authors, reviewers, an
 
 The dataset includes **100 papers that we manually annotated** as part of our analysis. 
 
-> **Coming soon:** Papers in CSV format.
+> List of papers, in alphabetical order, in CSV format: **EMNLP2026__Beyond_Good_Intentions_Annotated_Papers.csv**.
 
 
 Please contact **OusidhoumN[at]cardiff(dot)ac(dot)uk** if you would like to request access to our annotations or obtain further information about our case studies.
@@ -33,7 +33,7 @@ Please contact **OusidhoumN[at]cardiff(dot)ac(dot)uk** if you would like to requ
 
 The annotation guidelines and associated materials will be made available in this repository.
 
-> **Coming soon:** Annotation guidelines in CSV format.
+> Annotation guidelines in PDF format: **_LR_NLP_Project__Epistemology_Evaluation_Guidelines.pdf**.
 
 ---
 
