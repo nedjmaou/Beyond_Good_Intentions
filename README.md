@@ -56,7 +56,7 @@ These materials are intended to support:
 If you use the data, annotation guidelines, or other materials from this repository, please cite our paper:
 
 ```bibtex
-@inproceedings{ousidhoum2026beyond,
+@inproceedings{ousidhoumetal2026beyond,
   title     = {Beyond Good Intentions: When Does the Framing of Multilingual and Low-Resource NLP Research Become a Caricature?},
   author    = {Ousidhoum, Nedjma and Zambare, Noopur and Abdalla, Mohamed},
   booktitle = {Proceedings of EMNLP},
